@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  peoples:
+    title: peoples
+    output: true
 theme: jekyll-theme-architect
 prose:
   siteurl: https://www.globalgiving.org

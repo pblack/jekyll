@@ -3,6 +3,7 @@ title: Person
 date: 2017-05-17 17:19:00 Z
 name: Phil
 jobTitle: Software Engineer for Good
+layout: persons
 ---
 
 kjh kjahd fas

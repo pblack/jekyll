@@ -11,8 +11,6 @@ collections:
   peoples:
     title: peoples
     output: true
-    Team: Product
-    Title: Software Engineer for Good
 theme: jekyll-theme-architect
 prose:
   siteurl: https://www.globalgiving.org
